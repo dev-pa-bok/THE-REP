@@ -1,0 +1,15 @@
+body{
+font-family:"verdana";
+font-size:2em;
+}
+h1{
+text-stroke-width:1px;
+text-stroke-color:brown;
+color:blue;
+}
+p{
+text-transform:uppercase;
+text-align:center;
+color:red;
+text-shadow:1px 1px 2px yellow;
+}
